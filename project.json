@@ -64,6 +64,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase\\TestCase_Verify_Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "65ef628b-737d-4652-bb4a-7efff4842314",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCommit.xaml"
       }
     ],
     "saveToCloud": false
